@@ -4,7 +4,7 @@ A determinação exata do problema, suas personas, requisitos funcionais e não-
 
 ## Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem:
 
 ![Persona-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t4-pmv-ads-2024-1-e4-proj-infra-t4-ortorec/blob/1042692c54aa19026282def7fbaa1064fbe462ca/docs/img/Persona-1.png)
 
